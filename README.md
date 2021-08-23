@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+
 <!--
 **charles-woshicai/charles-woshicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a software engineer working on `cloud native`
+- 🌱 I’m interested in `history` and `game`
+- ⚡ I like `Pokemon`
