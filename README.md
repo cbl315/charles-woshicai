@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m a software engineer working on `cloud native`
 - 🌱 I’m interested in `history` and `game`
 - ⚡ I like `Pokemon`
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-woshicai&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=charles-woshicai&show_icons=true&count_private=true&line_height=40)
